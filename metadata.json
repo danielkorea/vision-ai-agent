@@ -1,0 +1,5 @@
+{
+  "name": "Vision AI Agent",
+  "description": "A multi-image generative AI platform that creates creative images from multiple references and generates 5-second video scripts.",
+  "requestFramePermissions": []
+}
